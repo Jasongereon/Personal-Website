@@ -1,0 +1,9 @@
+@font-face {
+    font-family: futura-light;
+    src: url("/futura-lt-w01-light.woff2");
+}
+
+@font-face {
+    font-family: futura-book;
+    src: url("/futura-lt-w01-book.woff2");
+}
